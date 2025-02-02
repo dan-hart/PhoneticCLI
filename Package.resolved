@@ -1,0 +1,15 @@
+{
+  "originHash" : "d1d252b68f1aa2baa20079fe32cc1968ac5272d49ee586b52aff70a60d3a9c2c",
+  "pins" : [
+    {
+      "identity" : "phonetictextswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dan-hart/PhoneticTextSwift.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f02f392481db27e28aa17b47203c53f73b346b60"
+      }
+    }
+  ],
+  "version" : 3
+}
