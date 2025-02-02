@@ -37,7 +37,7 @@ After building, run the CLI from your terminal. Here are some examples:
 
 Convert the string xCBDeDe93;dDsQ with case prefixing enabled, newline output, and default delimiter:
 ```bash
-phonetic convert "someString"
+phonetic convert "xCBDeDe93;dDsQ"
 ```
 
 Example Output:
