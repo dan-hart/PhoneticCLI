@@ -11,6 +11,8 @@ PhoneticCLI is a sleek command-line tool that harnesses the magic of [PhoneticTe
 - **Built with Swift 6:** Enjoy the latest Swift language features.
 - **Swift Package Manager:** Easily integrate into your projects.
 
+![phonetic_convert](https://github.com/user-attachments/assets/63f1711d-c1d2-42bf-9b5e-de411489a623)
+
 ## Installation
 
 You can add PhoneticCLI as a dependency in your Swift Package Manager project or clone this repository and build it locally.
